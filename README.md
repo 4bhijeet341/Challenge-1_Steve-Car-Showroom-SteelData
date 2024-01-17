@@ -1,5 +1,6 @@
 # Challenge-1 Steve's Car Showroom by SteelData
 **Introuction**
+
 "Hello, enthusiasts! 👋 Excited to share my SQL solution for a real-world challenge in the automotive industry. Steve, who runs a top-end car showroom, found himself in a data crunch when his analyst left. I stepped in to analyze the data, providing crucial insights. Check out my solution to see how SQL can drive informed decisions in a high-end car showroom. Feel free to contribute and let's empower businesses with data-driven solutions!
 
 **Tables**
