@@ -3,6 +3,8 @@
 "Hello, enthusiasts! 👋 Excited to share my SQL solution for a real-world challenge in the automotive industry. Steve, who runs a top-end car showroom, found himself in a data crunch when his analyst left. I stepped in to analyze the data, providing crucial insights. Check out my solution to see how SQL can drive informed decisions in a high-end car showroom. Feel free to contribute and let's empower businesses with data-driven solutions!
 
 **Tables**
+
+
 ![image](https://github.com/4bhijeet341/Challenge1_Steve-Car-Showroom-SteelData/assets/150332865/37dadc1d-ada0-463d-a2df-f85f18f00053)
 
 
